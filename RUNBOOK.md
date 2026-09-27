@@ -1,6 +1,6 @@
 # Platform Runbook
 
-Local, offline operation of the `ar-ecommerce-platform` stack.
+Local, offline operation of the `ar-ecommerce-backend` stack.
 
 ## Services & ports
 
@@ -113,7 +113,7 @@ zero Azure dependency).
 
 To enable it:
 
-1. Azure Portal → **App registrations** → new registration `ar-ecommerce-platform`.
+1. Azure Portal → **App registrations** → new registration `ar-ecommerce-backend`.
 2. **Expose an API** → Application ID URI `api://<client-id>` → add scope `access_as_user`.
 3. Put these in `infra/compose/.env`:
    ```

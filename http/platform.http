@@ -1,4 +1,4 @@
-### ar-ecommerce-platform — manual API walkthrough (IntelliJ HTTP Client / VS Code REST Client)
+### ar-ecommerce-backend — manual API walkthrough (IntelliJ HTTP Client / VS Code REST Client)
 #
 # Start the stack first:  docker compose -f ../compose/docker-compose.yml up -d
 # Then run these top to bottom. {{host}} comes from http-client.env.json (select "local").

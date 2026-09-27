@@ -1,4 +1,4 @@
-# Local, offline stack for the ar-ecommerce-platform.
+# Local, offline stack for the ar-ecommerce-backend.
 #
 #   docker compose -f infra/compose/docker-compose.yml up -d --build
 #   docker compose -f infra/compose/docker-compose.yml ps
