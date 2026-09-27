@@ -1,6 +1,6 @@
 # infra
 
-Operational glue for the `ar-ecommerce-platform`.
+Operational glue for the `ar-ecommerce-backend`.
 
 ```
 infra/
